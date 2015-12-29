@@ -2,6 +2,8 @@
 
 Shows Facebook and Vk feeds as empty space without any information on it.
 
+![Screenshot of quiet feeds](quiet-feeds.jpg)
+
 # Installation
 
 1. Download linked file [quiet-feed.css](https://github.com/m4rr/quiet-feed/raw/master/quiet-feed.css) on your computer.
