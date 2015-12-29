@@ -4,9 +4,9 @@ Shows Facebook and Vk feeds as empty space without any information on it.
 
 # Installation
 
-Set up `User Style Sheet` or `User CSS` in your browser to `quiet-feed.css`.
+Set `User Style Sheet` or `User CSS` in your browser to `quiet-feed.css`.
 
-* Safari: `Preferences...` → `Advanced` tab → `Style sheet`.
+* **Safari**: `Preferences...` → `Advanced` tab → `Style sheet` dropdown menu.
 
 # Licence
 
