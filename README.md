@@ -6,6 +6,7 @@ Facebook and Vk feeds as blank white view without any information on it.
 
 Set up `User Style Sheet` or `User CSS` in your browser to `quiet-feed.css`.
 
+* Safari: `Preferences...` → `Advanced` tab → `Style sheet`.
 
 # Licence
 
